@@ -1,0 +1,21 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env
+.venv/
+venv/
+
+# OS files
+.DS_Store
+
+# Generated datasets
+outputs/data/
+
+# Model artifacts (if created later)
+*.pkl
+*.joblib
