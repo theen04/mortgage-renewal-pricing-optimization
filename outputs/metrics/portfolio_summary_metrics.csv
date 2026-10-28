@@ -1,2 +1,2 @@
-Avg Rate Change (bps),Median Rate Change (bps),Max Rate Change (bps),Min Rate Change (bps),Avg Incremental Expected Annual Margin ($),Median Incremental Expected Annual Margin ($),Max Incremental Expected Annual Margin ($),Min Incremental Expected Annual Margin ($)
-40.0,40.000000000000036,40.000000000000036,39.999999999999964,555.0276755011488,413.08172044813637,2514.737449913906,81.43582328561729
+customers,avg_rate_change_bps,median_rate_change_bps,share_rate_increase,share_rate_decrease,true_acceptance_current,true_acceptance_optimized,true_annual_margin_current,true_annual_margin_optimized,true_incremental_annual_margin,uplift_pct,share_of_oracle_uplift
+6000,-9.172666666666666,-3.0,0.4695,0.523,0.6340655790032527,0.7070149188405673,19624739.57586445,21416345.642382704,1791606.0665182504,0.09129324033026472,0.865274933119618

@@ -1,0 +1,9 @@
+Global SEED used: 42
+Pricing rules: {'max_down_bps': 75, 'max_up_bps': 50, 'step_bps': 1, 'min_spread_bps': 75, 'loyalty_max_up_bps': 15, 'loyalty_min_tenure_yrs': 10}
+numpy==2.4.2
+pandas==3.0.5
+scipy==1.17.1
+matplotlib==3.10.8
+seaborn==0.13.2
+scikit-learn==1.9.0
+xgboost==3.2.0
